@@ -51,7 +51,7 @@
                             <div class="menu">
                                 <ul class="nav navbar-nav">
                                     <li class="active"><a href="#">HOME</a></li>
-                                    <li><a href="#">DISCOVER</a></li>
+                                    <li><a href="#">DISCOVERING</a></li>
                                     <li><a href="#">CAUSES</a></li>
                                     <li><a href="#">CAMPAIGNS</a></li>
                                     <li><a href="#">ORGANIZATIONS </a></li>
